@@ -62,12 +62,19 @@ class Set {
         // deletes card from vector !! TO DO !!
         void deleteCard() {
             int n;
-
             showCards();
+
+            // back out if there's no cards
+            int set_size = set.size();
+            if (set_size < 1)
+                return;
+            
             cout << "Which card would you like to delete? (Enter a number): ";
             cin >> n; // NEEDS INPUT CHECKING
             cin.ignore(1, '\n');
             // TO DO
+            set.erase(set.begin() + n - 1); // 1st index is at 0, so 1 will delete 0th index
+            set.shrink_to_fit();
         }
         
         // exports set to csv file !! TO DO !!
