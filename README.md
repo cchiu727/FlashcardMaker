@@ -5,4 +5,4 @@ Fork the master branch, then make a pull request to the *master* branch. In your
 # Setup and Testing
 For setup, just download the files included and then compile and run. For compiling and running, use your preferable compiler for your OS.
 # Contact
-If you have any questions or concerns, please email me at cchiu727@gmail.com or message me on Discord: V1vace#2751
+If you have any questions or concerns, please email me at cchiu727@gmail.com.
