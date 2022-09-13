@@ -9,7 +9,7 @@ using namespace std;
 // FORMATTING =======================================================
 void welcomeMessage() {
     cout << "Welcome to FlashcardMaker!" << endl;
-    // TO DO
+    cout << "This is a simple flashcard maker that helps you make a flashcard set and tools to manage your flashcard set." << endl;
 }
 // ==================================================================
 
