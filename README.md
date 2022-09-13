@@ -1,6 +1,6 @@
 # FlashcardMaker 
-** THIS PROJECT IS NO LONGER BEING WORKED ON **
-** Thank you to everyone who contributed to this project **
+**THIS PROJECT IS NO LONGER BEING WORKED ON**
+**Thank you to everyone who contributed to this project**
 Welcome! This is a simple flashcard maker that helps you make a flashcard set and tools to manage your flashcard set.
 This is a simple flashcard maker that helps you make a flashcard set and tools to manage your flashcard set. Made entirely in C++.
 # Contributing
